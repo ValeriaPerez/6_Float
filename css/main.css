@@ -1,0 +1,20 @@
+.caja
+{   width: 100px;
+	height: 100px;
+	margin: 3px;
+	background: orange;
+}
+.grande
+{
+	background: black;
+	padding: 5px;
+	width: 318px;
+}
+.clearfix
+{ overflow: auto;
+  zoom: 1;
+}
+.floating
+{
+	float: left;
+}
